@@ -7,10 +7,10 @@
         <div class="banner-wrapper d-flex flex-wrap align-items-center">
             <div class="banner-content">
                 <h1 class="banner-content__title">Play <span class="text--base">Online Casino</span> & Win Money Unlimited</h1>
-                <p class="banner-content__subtitle">PLAY CASINO AND EARN CRYPTO IN ONLINE. THE ULTIMATE ONLINE CASINO PLATFORM.</p>
+                <p class="banner-content__subtitle">PLAY CASINO AND EARN CRYPTO, CASH PRIZE AND OTHER ITEMS. THE ULTIMATE ONLINE CASINO PLATFORM.</p>
                 <div class="button-wrapper">
                     <a href="#" class="cmn--btn active btn--lg"><i class="las la-play"></i> Play Now</a>
-                    <a href="sign-up.html" class="cmn--btn btn--lg">Sign Up</a>
+{{--                    <a href="sign-up.html" class="cmn--btn btn--lg">Sign Up</a>--}}
                 </div>
                 <img src="assets/images/banner/card.png" alt="" class="shape1">
             </div>
@@ -31,7 +31,11 @@
                 <div class="about-content">
                     <div class="section-header">
                         <h2 class="section-header__title">About The Casino</h2>
-                        <p>A casino is a facility for certain types of gambling. Casinos are often built near or combined with hotels, resorts, restaurants, retail shopping, cruise ships, and other tourist attractions. Some casinos are also known for hosting live entertainment, such as stand-up comedy, concerts, and sports.</p>
+                        <p>
+                            At Casinous, we believe that everyone deserves a chance to win big. That's why we're committed to providing the best possible lotto experience to our customers, from start to finish.
+                            <br>
+                            Whether you're a seasoned lotto player or a newcomer looking to try your luck, Casinous is the place for you. Join us today and see why we're the premier destination for lotto lovers everywhere.
+                        </p>
                     </div>
                     <a href="about.html" class="cmn--btn active">Know More</a>
                 </div>
@@ -57,7 +61,11 @@
             <div class="col-lg-6 col-xl-5">
                 <div class="section-header text-center">
                     <h2 class="section-header__title">Top Awesome Games</h2>
-                    <p>A casino is a facility for certain types of gambling. Casinos are often built combined with hotels, resorts,.</p>
+                    <p>
+                        At Casinous, we believe that everyone deserves a chance to win big. That's why we're committed to providing the best possible lotto experience to our customers, from start to finish.
+                        <br>
+                        Whether you're a seasoned lotto player or a newcomer looking to try your luck, Casinous is the place for you. Join us today and see why we're the premier destination for lotto lovers everywhere.
+                    </p>
                 </div>
             </div>
         </div>
@@ -178,10 +186,10 @@
                 <div class="game-item">
                     <div class="game-inner">
                         <div class="game-item__thumb">
-                            <img src="assets/images/game/item6.png" alt="game">
+                            <img src="{{ asset('img/sic.jpg') }}" alt="game">
                         </div>
                         <div class="game-item__content">
-                            <h4 class="title">Dice Rolling</h4>
+                            <h4 class="title">Sic bo</h4>
                             <p class="invest-info">Invest Limit</p>
                             <p class="invest-amount">$10.49 - $1,000</p>
                             <a href="#0" class="cmn--btn active btn--md radius-0">Play Now</a>
