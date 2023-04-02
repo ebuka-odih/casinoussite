@@ -5428,7 +5428,7 @@
                                         <div class="revs_item_date time">24/10/2022</div>
                                     </div>
                                     <div class="revs_item_title">I trust this site</div>
-                                    <div class="revs_item_txt">Hello everyone My name is Mugisha Kevin. I’m come from Africa (Uganda). I have spent more than a year here on this site. Before I found LottoAgent site I had no chance of playing international big lottery jackpots. Since I found lotto agent now I can participate in every international big jackpots like powerball, mega millions, Eurojackpot , SuperEnalotto and EuroMillions without leaving my home. I’m happy with this site because it offers so many big lottery jackpots in world, with this site you can also buy both ticket and bet entry I can both buy bet and ticket entry. I have won some small prizes but I never won a jackpot. I hope to win big jackpots</div>
+                                    <div class="revs_item_txt">Hello everyone My name is Mugisha Kevin. I’m come from Africa (Uganda). I have spent more than a year here on this site. Before I found LottoAgent site I had no chance of playing international big lottery jackpots. Since I found {{ env('APP_NAME') }} now I can participate in every international big jackpots like powerball, mega millions, Eurojackpot , SuperEnalotto and EuroMillions without leaving my home. I’m happy with this site because it offers so many big lottery jackpots in world, with this site you can also buy both ticket and bet entry I can both buy bet and ticket entry. I have won some small prizes but I never won a jackpot. I hope to win big jackpots</div>
                                     <div class="revs_item_name">Mugisha Kevin</div>
                                 </a>
                             </div><div class="revs_slider_item">
@@ -5469,7 +5469,7 @@
                                         <div class="revs_item_date time">24/10/2022</div>
                                     </div>
                                     <div class="revs_item_title">I trust this site</div>
-                                    <div class="revs_item_txt">Hello everyone My name is Mugisha Kevin. I’m come from Africa (Uganda). I have spent more than a year here on this site. Before I found LottoAgent site I had no chance of playing international big lottery jackpots. Since I found lotto agent now I can participate in every international big jackpots like powerball, mega millions, Eurojackpot , SuperEnalotto and EuroMillions without leaving my home. I’m happy with this site because it offers so many big lottery jackpots in world, with this site you can also buy both ticket and bet entry I can both buy bet and ticket entry. I have won some small prizes but I never won a jackpot. I hope to win big jackpots</div>
+                                    <div class="revs_item_txt">Hello everyone My name is Mugisha Kevin. I’m come from Africa (Uganda). I have spent more than a year here on this site. Before I found LottoAgent site I had no chance of playing international big lottery jackpots. Since I found {{ env('APP_NAME') }} now I can participate in every international big jackpots like powerball, mega millions, Eurojackpot , SuperEnalotto and EuroMillions without leaving my home. I’m happy with this site because it offers so many big lottery jackpots in world, with this site you can also buy both ticket and bet entry I can both buy bet and ticket entry. I have won some small prizes but I never won a jackpot. I hope to win big jackpots</div>
                                     <div class="revs_item_name">Mugisha Kevin</div>
                                 </a>
                             </div><div class="revs_slider_item">
@@ -5510,7 +5510,7 @@
                                         <div class="revs_item_date time">15/10/2022</div>
                                     </div>
                                     <div class="revs_item_title">Best online lottery site</div>
-                                    <div class="revs_item_txt">I am playing in lotto agent for years.... I had wonderful experience with this site... They offer best bonus offer for international lotteries... I have participated many international lotteries through lotto agent... I had won small cash but i didn't win jackpot yet.... Hope one day i will win jackpot through lotto agent... Now they introduced instant win games, so we can check our luck instantly.. Hoping for big win.☺</div>
+                                    <div class="revs_item_txt">I am playing in {{ env('APP_NAME') }} for years.... I had wonderful experience with this site... They offer best bonus offer for international lotteries... I have participated many international lotteries through {{ env('APP_NAME') }}... I had won small cash but i didn't win jackpot yet.... Hope one day i will win jackpot through {{ env('APP_NAME') }}... Now they introduced instant win games, so we can check our luck instantly.. Hoping for big win.☺</div>
                                     <div class="revs_item_name">Bashee</div>
                                 </a>
                             </div><div class="revs_slider_item">
@@ -5552,7 +5552,7 @@
                                     </div>
                                     <div class="revs_item_title">I like lotto</div>
                                     <div class="revs_item_txt">I like lotto
-                                        I like lotto agent. Lots of lotteries in single place. Large selection of lottery syndicate are available at low price. I tried so many sites but lotto agent is best in service and fair price with syndicate, bundle and discounted tickets. Easy to deposit money. Various payment options are available. Customer care representative is quick responsive. Lottoagent is great..</div>
+                                        I like {{ env('APP_NAME') }}. Lots of lotteries in single place. Large selection of lottery syndicate are available at low price. I tried so many sites but {{ env('APP_NAME') }} is best in service and fair price with syndicate, bundle and discounted tickets. Easy to deposit money. Various payment options are available. Customer care representative is quick responsive. Lottoagent is great..</div>
                                     <div class="revs_item_name">ธีรชัย ทวิบุตร</div>
                                 </a>
                             </div><div class="revs_slider_item">
@@ -5593,7 +5593,7 @@
                                         <div class="revs_item_date time">14/09/2022</div>
                                     </div>
                                     <div class="revs_item_title">I am Subash Varghese from India</div>
-                                    <div class="revs_item_txt">I am Subash Varghese from India...... I am a lotto lover specially European and US lottos...., I tried several Lotto purchasing sites from India.... But unfortunately I didn't win a single penny....... But then after I heard about Lotto agent.,..,. And Lotto purchasing cost is very cheap from here...., I tried superEnoLotto from Lotto agent..... At the first time I match two numbers and I got €5.41..... and they credited all my winning amount in my account.... But I was little hesitating about my winning amount.... Because when why I was working in Europe I purchase Spanish Lotto from a Spanish Lotto site..... Then after draw the inform me that I won 10 Euro..... I am little bit happy at that time but unfortunately when I was cross check the Spanish Lotto site about winning I am very disappointments that I was win 100 euro but they give me only 10 Euro..... So that I was cross checking about superEnaLotto also..... And I am understand my winning amount and my credit amount are the same... Lotto agents didn't reduce my single penny from my winning amount....... So that I am telling in my experience Lotto agent is very trustful and very lucky site</div>
+                                    <div class="revs_item_txt">I am Subash Varghese from India...... I am a lotto lover specially European and US lottos...., I tried several Lotto purchasing sites from India.... But unfortunately I didn't win a single penny....... But then after I heard about {{ env('APP_NAME') }}.,..,. And Lotto purchasing cost is very cheap from here...., I tried superEnoLotto from {{ env('APP_NAME') }}..... At the first time I match two numbers and I got €5.41..... and they credited all my winning amount in my account.... But I was little hesitating about my winning amount.... Because when why I was working in Europe I purchase Spanish Lotto from a Spanish Lotto site..... Then after draw the inform me that I won 10 Euro..... I am little bit happy at that time but unfortunately when I was cross check the Spanish Lotto site about winning I am very disappointments that I was win 100 euro but they give me only 10 Euro..... So that I was cross checking about superEnaLotto also..... And I am understand my winning amount and my credit amount are the same... {{ env('APP_NAME') }}s didn't reduce my single penny from my winning amount....... So that I am telling in my experience {{ env('APP_NAME') }} is very trustful and very lucky site</div>
                                     <div class="revs_item_name">Subash Varghese</div>
                                 </a>
                             </div><div class="revs_slider_item">
@@ -5716,7 +5716,7 @@
                                         <div class="revs_item_date time">12/07/2022</div>
                                     </div>
                                     <div class="revs_item_title">Many lottery options available</div>
-                                    <div class="revs_item_txt">Many lottery options available.Easy to purchase lottery.Very simple and easy, here you will find Lottery game which gives opportunity to win fantastic prizes every day.I can't get the exact words to express how much i enjoy this site its really amazing.If u want to try u luck this is best place you can hope u can be a millionaire.it is available in many countries.Everything is good with lotto agent</div>
+                                    <div class="revs_item_txt">Many lottery options available.Easy to purchase lottery.Very simple and easy, here you will find Lottery game which gives opportunity to win fantastic prizes every day.I can't get the exact words to express how much i enjoy this site its really amazing.If u want to try u luck this is best place you can hope u can be a millionaire.it is available in many countries.Everything is good with {{ env('APP_NAME') }}</div>
                                     <div class="revs_item_name">subhasish</div>
                                 </a>
                             </div><div class="revs_slider_item">
@@ -5799,7 +5799,7 @@
                                         <div class="revs_item_date time">09/06/2022</div>
                                     </div>
                                     <div class="revs_item_title">📢want your dream to come true to be a…</div>
-                                    <div class="revs_item_txt">📢want your dream to come true to be a jackpot winner. Be in it . Your dream will come true... anything is possible have faith and you see your dream is around you. The best terrific awesome. 💕 you Lotto Agent</div>
+                                    <div class="revs_item_txt">📢want your dream to come true to be a jackpot winner. Be in it . Your dream will come true... anything is possible have faith and you see your dream is around you. The best terrific awesome. 💕 you {{ env('APP_NAME') }}</div>
                                     <div class="revs_item_name">SUSAN wangui</div>
                                 </a>
                             </div><div class="revs_slider_item">
@@ -5839,8 +5839,8 @@
                                         </div>
                                         <div class="revs_item_date time">02/06/2022</div>
                                     </div>
-                                    <div class="revs_item_title">hello To Lotto Agent Its a best lottery…</div>
-                                    <div class="revs_item_txt">hello To Lotto Agent Its a best lottery site online . If you want your dream to come true to be a jackpot winner. Be in it . Your dream will come true... anything is possible Be faith and you see your dream is around you. The best terrific awesome. Love you Lotto Agent.</div>
+                                    <div class="revs_item_title">hello To {{ env('APP_NAME') }} Its a best lottery…</div>
+                                    <div class="revs_item_txt">hello To {{ env('APP_NAME') }} Its a best lottery site online . If you want your dream to come true to be a jackpot winner. Be in it . Your dream will come true... anything is possible Be faith and you see your dream is around you. The best terrific awesome. Love you {{ env('APP_NAME') }}.</div>
                                     <div class="revs_item_name">Jitendra Prasad</div>
                                 </a>
                             </div><div class="revs_slider_item">
@@ -6004,7 +6004,7 @@
                                         <div class="revs_item_date time">19/05/2022</div>
                                     </div>
                                     <div class="revs_item_title">Play and be rich! Dreams Come True!</div>
-                                    <div class="revs_item_txt">I recently play through the company Lotto Agent. I like a large selection of lotteries from all over the world in one place. Everything is very simple and clear. The company pleases with discounts on tickets. I play and expect to win the jackpot soon</div>
+                                    <div class="revs_item_txt">I recently play through the company {{ env('APP_NAME') }}. I like a large selection of lotteries from all over the world in one place. Everything is very simple and clear. The company pleases with discounts on tickets. I play and expect to win the jackpot soon</div>
                                     <div class="revs_item_name">Aliaksei Silin</div>
                                 </a>
                             </div><div class="revs_slider_item">
@@ -6086,7 +6086,7 @@
                                         <div class="revs_item_date time">13/05/2022</div>
                                     </div>
                                     <div class="revs_item_title">Advantages</div>
-                                    <div class="revs_item_txt">Lotto Agent is a really nice service. It allows to take part in lotteries all over the world. Being not in The US, I can play MegaMillions and be not treated in. Use the service, it is a nice way to try winnig millions.</div>
+                                    <div class="revs_item_txt">{{ env('APP_NAME') }} is a really nice service. It allows to take part in lotteries all over the world. Being not in The US, I can play MegaMillions and be not treated in. Use the service, it is a nice way to try winnig millions.</div>
                                     <div class="revs_item_name">Henry Matskevich</div>
                                 </a>
                             </div><div class="revs_slider_item">
@@ -6126,8 +6126,8 @@
                                         </div>
                                         <div class="revs_item_date time">11/05/2022</div>
                                     </div>
-                                    <div class="revs_item_title">Lotto agent is a very good and decent…</div>
-                                    <div class="revs_item_txt">Lotto agent is a very good and decent site to play the lottery.the customer service are very good and impressive,so I urge everyone who wants to play the lottery to join lotto agent</div>
+                                    <div class="revs_item_title">{{ env('APP_NAME') }} is a very good and decent…</div>
+                                    <div class="revs_item_txt">{{ env('APP_NAME') }} is a very good and decent site to play the lottery.the customer service are very good and impressive,so I urge everyone who wants to play the lottery to join {{ env('APP_NAME') }}</div>
                                     <div class="revs_item_name">Saviour king</div>
                                 </a>
                             </div><div class="revs_slider_item">
@@ -6237,18 +6237,18 @@
                 <h4>The best lotteries in the world from the comfort of your own home!</h4>
                 <div class="text-mobtoggle">
                     <div class="text-short">
-                        <p><p>Lotto Agent, an online lottery service, helps players take part in the draws of the most popular lotteries, like Powerball or MEGA Millions, from the comfort of their own home. It&rsquo;s 100% safe and convenient.</p>
-                        <p>The Lotto Agent team consists of many professional and highly skilled experts with years of experience in the online-gaming and lottery industry. They all are willing to guide you through your lottery journey!</p></p>
+                        <p><p>{{ env('APP_NAME') }}, an online lottery service, helps players take part in the draws of the most popular lotteries, like Powerball or MEGA Millions, from the comfort of their own home. It&rsquo;s 100% safe and convenient.</p>
+                        <p>The {{ env('APP_NAME') }} team consists of many professional and highly skilled experts with years of experience in the online-gaming and lottery industry. They all are willing to guide you through your lottery journey!</p></p>
                     </div>
                     <div class="text-full">
                         <div class="row">
                             <div class="col-md-6">
-                                <p>Lotto Agent, an online lottery service, helps players take part in the draws of the most popular lotteries, like Powerball or MEGA Millions, from the comfort of their own home. It&rsquo;s 100% safe and convenient.</p>
-                                <p>The Lotto Agent team consists of many professional and highly skilled experts with years of experience in the online-gaming and lottery industry. They all are willing to guide you through your lottery journey!</p>
+                                <p>{{ env('APP_NAME') }}, an online lottery service, helps players take part in the draws of the most popular lotteries, like Powerball or MEGA Millions, from the comfort of their own home. It&rsquo;s 100% safe and convenient.</p>
+                                <p>The {{ env('APP_NAME') }} team consists of many professional and highly skilled experts with years of experience in the online-gaming and lottery industry. They all are willing to guide you through your lottery journey!</p>
                             </div>
                             <div class="col-md-6">
                                 <p>Through our website, you can play many of the greatest licensed lotteries in the world. <a href="en/play-lottery/" target="_blank">Pick a lottery</a> you like, select your numbers, or use the Easy Pick option, and then purchase a ticket or place a bet.</p>
-                                <p>Be sure to keep up with the latest featured posts in the Lotto Agent <a href="en/blog/" target="_blank">blog</a> where we post the most intriguing news, frequently browse through <a href="en/results/" target="_blank">lottery results</a>, watch videos of draws, and check lottery statistics.</p>
+                                <p>Be sure to keep up with the latest featured posts in the {{ env('APP_NAME') }} <a href="en/blog/" target="_blank">blog</a> where we post the most intriguing news, frequently browse through <a href="en/results/" target="_blank">lottery results</a>, watch videos of draws, and check lottery statistics.</p>
                             </div>
                         </div>
                     </div>

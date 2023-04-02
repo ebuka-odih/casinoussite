@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'pages.index');
+Route::view('/', 'pages.index')->name('index');
 Route::view('daily-lotto', 'pages.daily-lotto')->name('daily_lotto');
 Route::view('lotteries', 'pages.lotteries')->name('lotteries');
+Route::view('specials-common', 'pages.specials-common')->name('specials_common');
+Route::view('results', 'pages.results')->name('results');
+Route::view('play', 'pages.play')->name('play');
