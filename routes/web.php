@@ -14,3 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::view('/', 'pages.index');
+Route::view('daily-lotto', 'pages.daily-lotto')->name('daily_lotto');
+Route::view('lotteries', 'pages.lotteries')->name('lotteries');
