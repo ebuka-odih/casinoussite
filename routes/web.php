@@ -19,3 +19,6 @@ Route::view('lotteries', 'pages.lotteries')->name('lotteries');
 Route::view('specials-common', 'pages.specials-common')->name('specials_common');
 Route::view('results', 'pages.results')->name('results');
 Route::view('play', 'pages.play')->name('play');
+Route::view('demo', 'pages.demo')->name('demo');
+
+Route::post('play/', 'PlayLottoController@playLotto')->name('playLotto');
