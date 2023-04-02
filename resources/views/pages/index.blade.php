@@ -21,7 +21,7 @@
                 <div class="mainbanner_bg cover-bg" style="background-image: url('https://static.cdnland.com/upload/images/promo/promo_mobile_en3.jpg');"></div>
                 <div class="mainbanner_cont">
                     <a href="#windowAlert" class="ratestars fancybox" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                        <span class="icon-rating"></span>
+                        <span class="fa fa-star"></span>
                         <span class="ratestars_val">9.0</span>
                     </a>
                     <a href="/en/play-lottery/mega-millions/?from=index_lotto&syndicates=1&extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="Syndicate is available for this lottery"></a>
@@ -104,7 +104,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -154,7 +154,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.2</span>
                                     </a>
                                     <div class="time ">
@@ -202,7 +202,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -252,7 +252,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -302,7 +302,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -350,7 +350,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -400,7 +400,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -450,7 +450,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -500,7 +500,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -548,7 +548,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -598,7 +598,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -646,7 +646,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -694,7 +694,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -744,7 +744,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -792,7 +792,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -840,7 +840,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.4</span>
                                     </a>
                                     <div class="time ">
@@ -890,7 +890,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -938,7 +938,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.1</span>
                                     </a>
                                     <div class="time ">
@@ -986,7 +986,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.2</span>
                                     </a>
                                     <div class="time ">
@@ -1034,7 +1034,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -1082,7 +1082,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.6</span>
                                     </a>
                                     <div class="time ">
@@ -1132,7 +1132,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -1180,7 +1180,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.2</span>
                                     </a>
                                     <div class="time ">
@@ -1230,7 +1230,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.5</span>
                                     </a>
                                     <div class="time ">
@@ -1280,7 +1280,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time time-hot">
@@ -1328,7 +1328,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time time-hot">
@@ -1376,7 +1376,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -1424,7 +1424,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -1474,7 +1474,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -1522,7 +1522,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.5</span>
                                     </a>
                                     <div class="time ">
@@ -1570,7 +1570,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -1618,7 +1618,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -1666,7 +1666,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -1719,7 +1719,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time time-hot">
@@ -1767,7 +1767,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -1815,7 +1815,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time time-hot">
@@ -1863,7 +1863,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.5</span>
                                     </a>
                                     <div class="time ">
@@ -1911,7 +1911,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -1959,7 +1959,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -2007,7 +2007,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -2055,7 +2055,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -2103,7 +2103,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -2151,7 +2151,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.2</span>
                                     </a>
                                     <div class="time ">
@@ -2199,7 +2199,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -2249,7 +2249,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -2299,7 +2299,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.2</span>
                                     </a>
                                     <div class="time ">
@@ -2347,7 +2347,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -2395,7 +2395,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.6</span>
                                     </a>
                                     <div class="time ">
@@ -2445,7 +2445,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -2493,7 +2493,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -2541,7 +2541,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -2591,7 +2591,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.4</span>
                                     </a>
                                     <div class="time ">
@@ -2641,7 +2641,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.1</span>
                                     </a>
                                     <div class="time ">
@@ -2689,7 +2689,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -2737,7 +2737,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -2787,7 +2787,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.2</span>
                                     </a>
                                     <div class="time ">
@@ -2837,7 +2837,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -2885,7 +2885,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -2935,7 +2935,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -2985,7 +2985,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -3033,7 +3033,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.5</span>
                                     </a>
                                     <div class="time ">
@@ -3083,7 +3083,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -3131,7 +3131,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -3179,7 +3179,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -3229,7 +3229,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -3279,7 +3279,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -3334,7 +3334,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.6</span>
                                     </a>
                                     <div class="time ">
@@ -3384,7 +3384,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -3432,7 +3432,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -3480,7 +3480,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -3530,7 +3530,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -3578,7 +3578,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time time-hot">
@@ -3626,7 +3626,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -3674,7 +3674,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.5</span>
                                     </a>
                                     <div class="time ">
@@ -3722,7 +3722,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -3772,7 +3772,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time time-hot">
@@ -3820,7 +3820,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -3868,7 +3868,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -3918,7 +3918,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.4</span>
                                     </a>
                                     <div class="time ">
@@ -3968,7 +3968,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -4016,7 +4016,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -4066,7 +4066,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -4116,7 +4116,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.3</span>
                                     </a>
                                     <div class="time ">
@@ -4164,7 +4164,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.2</span>
                                     </a>
                                     <div class="time ">
@@ -4214,7 +4214,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.2</span>
                                     </a>
                                     <div class="time ">
@@ -4262,7 +4262,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.2</span>
                                     </a>
                                     <div class="time ">
@@ -4310,7 +4310,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.1</span>
                                     </a>
                                     <div class="time ">
@@ -4358,7 +4358,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -4406,7 +4406,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -4456,7 +4456,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -4506,7 +4506,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">7.0</span>
                                     </a>
                                     <div class="time ">
@@ -4554,7 +4554,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -4602,7 +4602,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -4650,7 +4650,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -4698,7 +4698,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -4748,7 +4748,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.6</span>
                                     </a>
                                     <div class="time ">
@@ -4796,7 +4796,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.5</span>
                                     </a>
                                     <div class="time ">
@@ -4844,7 +4844,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.5</span>
                                     </a>
                                     <div class="time ">
@@ -4894,7 +4894,7 @@
                                 </div>
                                 <div class="lottery_item_cont">
                                     <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today&#039;s Top-Rated Lotteries" data-text="&lt;p&gt;We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!&lt;/p&gt;&lt;p&gt;Choose a lottery with the highest score to win more and spend less!&lt;/p&gt;" data-toggle="tooltip" data-placement="bottom" title="Lottery rating from 1 to 10">
-                                        <span class="icon-rating"></span>
+                                        <span class="fa fa-star"></span>
                                         <span class="ratestars_val">6.4</span>
                                     </a>
                                     <div class="time ">
