@@ -9,13 +9,13 @@
 <div class="col-12 col-sm-6">
     <a href="en/cart/" class="btn btn-success w-100" style="margin-top: 10px;">Proceed to checkout</a>
 </div>
-<div class="col-12 col-sm-6">						
+<div class="col-12 col-sm-6">
     <a href="#" class="btn btn-outline-primary closeButton w-100" style="margin-top: 10px;">Continue shopping</a>
 </div>
 </div>
 </div>
 <section class="section-loteries">
-<div class="container">	
+<div class="container">
 <div class="row">
     <div class="col-lg-8">
         <h1>Play Global Lotteries Online</h1>
@@ -34,7 +34,7 @@
             <div class="subscblock_img">
                 <img src="https://static.cdnland.com/new/images/svg/goright.svg" alt="">
             </div>
-        </a> 
+        </a>
     </div>
     <div class="col-md-6 d-none d-md-block d-lg-none">
         <div class="promotions_trust">
@@ -45,7 +45,7 @@
 <div class="promotions_trust_stars">
     <div class="trustrate">
         <a rel="nofollow" target="_blank" href="https://trustpilot.com/review/www.agentlotto.com" onclick="yaGoals('TRUSTPILOT');">
-            
+
 <span style="display: inline-block; width: 128px; height: 24px;  overflow: hidden; ">
     <svg viewBox="0 0 251 46" xmlns="http://www.w3.org/2000/svg" style="height: 100%; width: 128px; left: 0; top: 0; z-index: 0; position: relative;">
       <g>
@@ -108,7 +108,7 @@
             <option value="en/play-lottery/?filter=score">Rating</option>
             <option value="en/play-lottery/?filter=price">Price</option>
         </select><button type="button" tabindex="-1" class="btn dropdown-toggle btn-light" data-toggle="dropdown" role="combobox" aria-owns="bs-select-2" aria-haspopup="listbox" aria-expanded="false" title="Jackpot"><div class="filter-option"><div class="filter-option-inner"><div class="filter-option-inner-inner"><span>Jackpot</span></div></div> </div></button><div class="dropdown-menu "><div class="inner show" role="listbox" id="bs-select-2" tabindex="-1"><ul class="dropdown-menu inner show" role="presentation"></ul></div></div></div>
-    </div>		
+    </div>
     <div class="lotteries-action">
         <div class="form-group">
             <input id="lotto_for_search" onkeyup="search_lotto_by_name()" type="search" class="form-control form-control__search" placeholder="Search by name">
@@ -130,10 +130,10 @@
     <div class="lotteries">
         <div class="row">
             <div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Lotto Austria">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/at.svg" alt="AT"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.6</span>
 </a>
 <div class="lotteries_item_img">
@@ -143,21 +143,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">€ 1.4 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">€ 1.4 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">€ 1.4 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="38122">10&nbsp;hours</div>
     </div>
     <a href="/en/play-lottery/lotto-austria/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -165,8 +165,8 @@
                 <option value="/en/play-lottery/lotto-austria/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 11.06</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/lotto-austria/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/lotto-austria/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/lotto-austria/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/lotto-austria/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/lotto-austria/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -177,24 +177,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/lotto-austria/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/lotto-austria/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/lotto-austria/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Oz Lotto">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/au.svg" alt="AU"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.4</span>
 </a>
 <div class="lotteries_item_img">
@@ -204,21 +204,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">A$ 20 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">A$ 20 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">A$ 20 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x3</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="174922">2&nbsp;days</div>
     </div>
     <a href="/en/play-lottery/oz-lotto/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -226,8 +226,8 @@
                 <option value="/en/play-lottery/oz-lotto/?from=play_table&amp;easy_pick=7&amp;extra_jackpot=" data-event-easy-pick="1">7 lines for $ 16.34</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/oz-lotto/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/oz-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/oz-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/oz-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/oz-lotto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -238,24 +238,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/oz-lotto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/oz-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/oz-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Monday &amp; Wednesday Lotto">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/au.svg" alt="AU"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.4</span>
 </a>
 <div class="lotteries_item_img">
@@ -265,21 +265,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">A$ 1 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">A$ 1 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">A$ 1 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="88522">1&nbsp;day</div>
     </div>
     <a href="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -287,8 +287,8 @@
                 <option value="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;easy_pick=14&amp;extra_jackpot=" data-event-easy-pick="1">14 lines for $ 13.86</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/au-mon-wed-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/au-mon-wed-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/au-mon-wed-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -299,24 +299,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/au-mon-wed-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/au-mon-wed-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Powerball Australia">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/au.svg" alt="AU"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.0</span>
 </a>
 <div class="lotteries_item_img">
@@ -326,21 +326,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">A$ 20 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">A$ 20 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">A$ 20 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="347722">4&nbsp;days</div>
     </div>
     <a href="/en/play-lottery/powerball-australia/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -348,8 +348,8 @@
                 <option value="/en/play-lottery/powerball-australia/?from=play_table&amp;easy_pick=6&amp;extra_jackpot=" data-event-easy-pick="1">6 lines for $ 9.88</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/powerball-australia/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/powerball-australia/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/powerball-australia/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/powerball-australia/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/powerball-australia/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -360,24 +360,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/powerball-australia/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/powerball-australia/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/powerball-australia/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Saturday Lotto">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/au.svg" alt="AU"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.3</span>
 </a>
 <div class="lotteries_item_img">
@@ -387,21 +387,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">A$ 5 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">A$ 5 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">A$ 5 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="531322">6&nbsp;days</div>
     </div>
     <a href="/en/play-lottery/au-saturday-lotto/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -409,8 +409,8 @@
                 <option value="/en/play-lottery/au-saturday-lotto/?from=play_table&amp;easy_pick=10&amp;extra_jackpot=" data-event-easy-pick="1">10 lines for $ 13.38</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/au-saturday-lotto/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/au-saturday-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/au-saturday-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/au-saturday-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/au-saturday-lotto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -421,24 +421,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/au-saturday-lotto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/au-saturday-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/au-saturday-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Set for Life (AU)">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/au.svg" alt="AU"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.5</span>
 </a>
 <div class="lotteries_item_img">
@@ -448,21 +448,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">A$ 4.8 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">A$ 4.8 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">A$ 4.8 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="16522">4&nbsp;hours</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -470,8 +470,8 @@
                 <option value="/en/play-lottery/au-set-for-life/?from=play_table&amp;easy_pick=14&amp;extra_jackpot=" data-event-easy-pick="1">14 lines for $ 14.23</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/au-set-for-life/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/au-set-for-life/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/au-set-for-life/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -482,14 +482,14 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/au-set-for-life/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/au-set-for-life/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
@@ -502,10 +502,10 @@
 <div class="payed_img"><img src="https://static.cdnland.com/new/images/svg/payed.svg" alt=""><div class="payed_img_sum">$ 140,001,887</div></div>
 </div>
 </div></div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Mega Sena">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/br.svg" alt="BR"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">6.5</span>
 </a>
 <div class="lotteries_item_img">
@@ -515,21 +515,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">R$ 37 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">R$ 37 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">R$ 37 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="318922">3&nbsp;days</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -537,8 +537,8 @@
                 <option value="/en/play-lottery/mega-sena/?from=play_table&amp;easy_pick=6&amp;extra_jackpot=" data-event-easy-pick="1">6 lines for $ 11.80</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/mega-sena/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/mega-sena/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/mega-sena/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -549,22 +549,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/mega-sena/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/mega-sena/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Lotto 6/49">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/ca.svg" alt="CA"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.4</span>
 </a>
 <div class="lotteries_item_img">
@@ -574,21 +574,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">C$ 5+ <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">C$ 5+ <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">C$ 5+ <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="329722">3&nbsp;days</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -596,8 +596,8 @@
                 <option value="/en/play-lottery/lotto-649/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 16.67</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/lotto-649/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/lotto-649/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/lotto-649/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -608,22 +608,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/lotto-649/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/lotto-649/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Lotto 6 aus 49">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/de.svg" alt="DE"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">6.5</span>
 </a>
 <div class="lotteries_item_img">
@@ -633,21 +633,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">€ 1+ <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">€ 1+ <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">€ 1+ <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="293722">3&nbsp;days</div>
     </div>
     <a href="/en/play-lottery/lotto-6-aus-49/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -655,8 +655,8 @@
                 <option value="/en/play-lottery/lotto-6-aus-49/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 10.83</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/lotto-6-aus-49/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/lotto-6-aus-49/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -667,24 +667,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/lotto-6-aus-49/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="El Gordo de la Primitiva">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/es.svg" alt="ES"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">6.6</span>
 </a>
 <div class="lotteries_item_img">
@@ -694,21 +694,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">€ 5+ <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">€ 5+ <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">€ 5+ <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="542122">6&nbsp;days</div>
     </div>
     <a href="/en/play-lottery/el-gordo/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -716,8 +716,8 @@
                 <option value="/en/play-lottery/el-gordo/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 13.50</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/el-gordo/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/el-gordo/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/el-gordo/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/el-gordo/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/el-gordo/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -728,24 +728,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/el-gordo/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/el-gordo/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/el-gordo/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="La Primitiva">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/es.svg" alt="ES"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">6.4</span>
 </a>
 <div class="lotteries_item_img">
@@ -755,21 +755,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">€ 12 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">€ 12 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">€ 12 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label " style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x7</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="128122">1&nbsp;day</div>
     </div>
     <a href="/en/play-lottery/la-primitiva/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -777,8 +777,8 @@
                 <option value="/en/play-lottery/la-primitiva/?from=play_table&amp;easy_pick=4&amp;extra_jackpot=" data-event-easy-pick="1">4 lines for $ 10.94</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/la-primitiva/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/la-primitiva/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/la-primitiva/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/la-primitiva/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/la-primitiva/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -789,24 +789,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/la-primitiva/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/la-primitiva/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/la-primitiva/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="BonoLoto">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/es.svg" alt="ES"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.3</span>
 </a>
 <div class="lotteries_item_img">
@@ -816,21 +816,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">€ 400+ <span class="mln_icon_extra text-nowrap">Thousand </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">€ 400+ <span class="mln_icon_extra text-nowrap">K </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">€ 400+ <span class="mln_icon_extra text-nowrap">K </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="131722">1&nbsp;day</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -838,8 +838,8 @@
                 <option value="/en/play-lottery/bonoloto/?from=play_table&amp;easy_pick=4&amp;extra_jackpot=" data-event-easy-pick="1">4 lines for $ 7.03</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/bonoloto/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/bonoloto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/bonoloto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -850,14 +850,14 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/bonoloto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/bonoloto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
@@ -868,10 +868,10 @@
 <div class="freeban_txt">Want to play for free? Invite your friends to play world-famous lotteries and get bonuses for their orders!</div>
 </div>
 </a></div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="EuroJackpot">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/eu.svg" alt="EU"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.3</span>
 </a>
 <div class="lotteries_item_img">
@@ -881,21 +881,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">€ 10 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">€ 10 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">€ 10 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="210922">2&nbsp;days</div>
     </div>
     <a href="/en/play-lottery/eurojackpot/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -903,8 +903,8 @@
                 <option value="/en/play-lottery/eurojackpot/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 16.76</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/eurojackpot/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/eurojackpot/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/eurojackpot/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/eurojackpot/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/eurojackpot/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -915,24 +915,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/eurojackpot/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/eurojackpot/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/eurojackpot/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="EuroMillions">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/eu.svg" alt="EU"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.4</span>
 </a>
 <div class="lotteries_item_img">
@@ -942,21 +942,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">€ 40 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">€ 40 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">€ 40 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x2</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="218122">2&nbsp;days</div>
     </div>
     <a href="/en/play-lottery/euromillions/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -964,8 +964,8 @@
                 <option value="/en/play-lottery/euromillions/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 18.04</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/euromillions/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/euromillions/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/euromillions/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/euromillions/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/euromillions/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -976,24 +976,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/euromillions/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/euromillions/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/euromillions/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="France Loto">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/fr.svg" alt="FR"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.1</span>
 </a>
 <div class="lotteries_item_img">
@@ -1003,21 +1003,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">€ 3 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">€ 3 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">€ 3 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="120922">1&nbsp;day</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1025,8 +1025,8 @@
                 <option value="/en/play-lottery/france-loto/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 17.67</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/france-loto/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/france-loto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/france-loto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1037,22 +1037,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/france-loto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/france-loto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="UK Lotto">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/gb.svg" alt="GB"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.3</span>
 </a>
 <div class="lotteries_item_img">
@@ -1062,21 +1062,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">£ 9 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">£ 9 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">£ 9 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label " style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x10</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="300922">3&nbsp;days</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1084,8 +1084,8 @@
                 <option value="/en/play-lottery/uk-lotto/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 21.12</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/uk-lotto/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/uk-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/uk-lotto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1096,22 +1096,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/uk-lotto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/uk-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Thunderball UK">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/gb.svg" alt="GB"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.0</span>
 </a>
 <div class="lotteries_item_img">
@@ -1121,21 +1121,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">£ 500 <span class="mln_icon_extra text-nowrap">Thousand </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">£ 500 <span class="mln_icon_extra text-nowrap">K </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">£ 500 <span class="mln_icon_extra text-nowrap">K </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="214522">2&nbsp;days</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1143,8 +1143,8 @@
                 <option value="/en/play-lottery/thunderball-uk/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 8.99</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/thunderball-uk/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/thunderball-uk/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/thunderball-uk/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1155,22 +1155,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/thunderball-uk/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/thunderball-uk/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Lotto Ireland">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/ie.svg" alt="IE"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.5</span>
 </a>
 <div class="lotteries_item_img">
@@ -1180,21 +1180,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">€ 3.5 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">€ 3.5 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">€ 3.5 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x4</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="304522">3&nbsp;days</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1202,8 +1202,8 @@
                 <option value="/en/play-lottery/lotto-ie/?from=play_table&amp;easy_pick=4&amp;extra_jackpot=" data-event-easy-pick="1">4 lines for $ 21.11</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/lotto-ie/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/lotto-ie/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/lotto-ie/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1214,22 +1214,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/lotto-ie/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/lotto-ie/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Daily Million">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/ie.svg" alt="IE"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.4</span>
 </a>
 <div class="lotteries_item_img">
@@ -1239,21 +1239,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">€ 1+ <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">€ 1+ <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">€ 1+ <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="23722">6&nbsp;hours</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1261,8 +1261,8 @@
                 <option value="/en/play-lottery/ie-daily-million/?from=play_table&amp;easy_pick=5&amp;extra_jackpot=" data-event-easy-pick="1">5 lines for $ 12.92</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/ie-daily-million/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/ie-daily-million/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/ie-daily-million/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1273,22 +1273,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/ie-daily-million/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/ie-daily-million/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="SuperEnalotto">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/it.svg" alt="IT"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.2</span>
 </a>
 <div class="lotteries_item_img">
@@ -1298,21 +1298,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">€ 11.3 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">€ 11.3 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">€ 11.3 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x3</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="210922">2&nbsp;days</div>
     </div>
     <a href="/en/play-lottery/superenalotto/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1320,8 +1320,8 @@
                 <option value="/en/play-lottery/superenalotto/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 8.85</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/superenalotto/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/superenalotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/superenalotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/superenalotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/superenalotto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1332,24 +1332,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/superenalotto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/superenalotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/superenalotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Mexico Melate">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/mx.svg" alt="MX"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.5</span>
 </a>
 <div class="lotteries_item_img">
@@ -1359,21 +1359,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">M$ 30.1 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">M$ 30.1 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">M$ 30.1 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="70522">19&nbsp;hours</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1381,8 +1381,8 @@
                 <option value="/en/play-lottery/mexico-melate/?from=play_table&amp;easy_pick=10&amp;extra_jackpot=" data-event-easy-pick="1">10 lines for $ 19.76</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/mexico-melate/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/mexico-melate/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/mexico-melate/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1393,22 +1393,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/mexico-melate/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/mexico-melate/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Poland Lotto">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/pl.svg" alt="PL"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">6.6</span>
 </a>
 <div class="lotteries_item_img">
@@ -1418,21 +1418,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">zł 2+ <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">zł 2+ <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">zł 2+ <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="225322">2&nbsp;days</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1440,8 +1440,8 @@
                 <option value="/en/play-lottery/poland-lotto/?from=play_table&amp;easy_pick=5&amp;extra_jackpot=" data-event-easy-pick="1">5 lines for $ 8.09</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/poland-lotto/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/poland-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/poland-lotto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1452,22 +1452,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/poland-lotto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/poland-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="MEGA Millions">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/us.svg" alt="US"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">9.0</span>
 </a>
 <div class="lotteries_item_img">
@@ -1477,21 +1477,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">$ 385 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">$ 385 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">$ 385 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label " style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x17</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="246922">2&nbsp;days</div>
     </div>
     <a href="/en/play-lottery/mega-millions/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1499,8 +1499,8 @@
                 <option value="/en/play-lottery/mega-millions/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 14.92</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/mega-millions/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/mega-millions/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/mega-millions/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/mega-millions/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/mega-millions/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1511,24 +1511,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/mega-millions/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/mega-millions/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/mega-millions/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="California Fantasy 5">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/us.svg" alt="US"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">6.6</span>
 </a>
 <div class="lotteries_item_img">
@@ -1538,21 +1538,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">$ 63 <span class="mln_icon_extra text-nowrap">Thousand </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">$ 63 <span class="mln_icon_extra text-nowrap">K </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">$ 63 <span class="mln_icon_extra text-nowrap">K </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="66922">18&nbsp;hours</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1560,8 +1560,8 @@
                 <option value="/en/play-lottery/ca-fantasy-5/?from=play_table&amp;easy_pick=5&amp;extra_jackpot=" data-event-easy-pick="1">5 lines for $ 11.87</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/ca-fantasy-5/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/ca-fantasy-5/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/ca-fantasy-5/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1572,22 +1572,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/ca-fantasy-5/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/ca-fantasy-5/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Lotto America">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/us.svg" alt="US"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.5</span>
 </a>
 <div class="lotteries_item_img">
@@ -1597,21 +1597,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">$ 2+ <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">$ 2+ <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">$ 2+ <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="329722">3&nbsp;days</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1619,8 +1619,8 @@
                 <option value="/en/play-lottery/lotto-america/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 9.57</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/lotto-america/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/lotto-america/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/lotto-america/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1631,22 +1631,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/lotto-america/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/lotto-america/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Wisconsin Megabucks">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/us.svg" alt="US"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">6.6</span>
 </a>
 <div class="lotteries_item_img">
@@ -1656,21 +1656,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">$ 1 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">$ 1 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">$ 1 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="329722">3&nbsp;days</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1678,8 +1678,8 @@
                 <option value="/en/play-lottery/megabucks/?from=play_table&amp;easy_pick=5&amp;extra_jackpot=" data-event-easy-pick="1">5 lines for $ 7.67</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/megabucks/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/megabucks/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/megabucks/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1690,22 +1690,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/megabucks/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/megabucks/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Cash4Life">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/us.svg" alt="US"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.5</span>
 </a>
 <div class="lotteries_item_img">
@@ -1715,21 +1715,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">$ 7 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">$ 7 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">$ 7 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="70522">19&nbsp;hours</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1737,8 +1737,8 @@
                 <option value="/en/play-lottery/cash-for-life/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 14.25</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/cash-for-life/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/cash-for-life/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/cash-for-life/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1749,22 +1749,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/cash-for-life/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/cash-for-life/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Powerball">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/us.svg" alt="US"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.5</span>
 </a>
 <div class="lotteries_item_img">
@@ -1774,21 +1774,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">$ 20+ <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">$ 20+ <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">$ 20+ <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="160522">1&nbsp;day</div>
     </div>
     <a href="/en/play-lottery/powerball/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1796,8 +1796,8 @@
                 <option value="/en/play-lottery/powerball/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 14.92</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/powerball/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/powerball/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/powerball/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/powerball/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/powerball/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1808,24 +1808,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/powerball/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/powerball/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/powerball/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="SuperLotto Plus">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/us.svg" alt="US"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.0</span>
 </a>
 <div class="lotteries_item_img">
@@ -1835,21 +1835,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">$ 47 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">$ 47 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">$ 47 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label " style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x40</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="333322">3&nbsp;days</div>
     </div>
     <a href="/en/play-lottery/superlotto-plus/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
-    
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1857,8 +1857,8 @@
                 <option value="/en/play-lottery/superlotto-plus/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 8.52</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/superlotto-plus/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                <option class="opt-syndicate" value="/en/play-lottery/superlotto-plus/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>					
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+                <option class="opt-syndicate" value="/en/play-lottery/superlotto-plus/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/superlotto-plus/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/superlotto-plus/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1869,24 +1869,24 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/superlotto-plus/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
                     <p><a href="/en/play-lottery/superlotto-plus/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
-                                
-                
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/superlotto-plus/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="New York Lotto">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/us.svg" alt="US"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.2</span>
 </a>
 <div class="lotteries_item_img">
@@ -1896,21 +1896,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">$ 2.1 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">$ 2.1 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">$ 2.1 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="333322">3&nbsp;days</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1918,8 +1918,8 @@
                 <option value="/en/play-lottery/new-york-lotto/?from=play_table&amp;easy_pick=4&amp;extra_jackpot=" data-event-easy-pick="1">4 lines for $ 5.82</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/new-york-lotto/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/new-york-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/new-york-lotto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1930,22 +1930,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/new-york-lotto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/new-york-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="Lotto Texas">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/us.svg" alt="US"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.2</span>
 </a>
 <div class="lotteries_item_img">
@@ -1955,21 +1955,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">$ 5+ <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">$ 5+ <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">$ 5+ <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="164122">1&nbsp;day</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -1977,8 +1977,8 @@
                 <option value="/en/play-lottery/lotto-texas/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" data-event-easy-pick="1">3 lines for $ 10.80</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/lotto-texas/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/lotto-texas/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/lotto-texas/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -1989,22 +1989,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/lotto-texas/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/lotto-texas/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="South Africa Powerball">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/za.svg" alt="ZA"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.0</span>
 </a>
 <div class="lotteries_item_img">
@@ -2014,21 +2014,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">R 26 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">R 26 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">R 26 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x4</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="221722">2&nbsp;days</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -2036,8 +2036,8 @@
                 <option value="/en/play-lottery/za-powerball/?from=play_table&amp;easy_pick=10&amp;extra_jackpot=" data-event-easy-pick="1">10 lines for $ 7.90</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/za-powerball/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/za-powerball/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/za-powerball/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -2048,22 +2048,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/za-powerball/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/za-powerball/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="South Africa Daily Lotto">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/za.svg" alt="ZA"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">6.6</span>
 </a>
 <div class="lotteries_item_img">
@@ -2073,21 +2073,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">R 300 <span class="mln_icon_extra text-nowrap">Thousand </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">R 300 <span class="mln_icon_extra text-nowrap">K </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">R 300 <span class="mln_icon_extra text-nowrap">K </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label v-hidden" style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x-1</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="41722">11&nbsp;hours</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -2095,8 +2095,8 @@
                 <option value="/en/play-lottery/za-daily-lotto/?from=play_table&amp;easy_pick=15&amp;extra_jackpot=" data-event-easy-pick="1">15 lines for $ 6.34</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/za-daily-lotto/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/za-daily-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/za-daily-lotto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -2107,22 +2107,22 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/za-daily-lotto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/za-daily-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
 </div><div class="lotteries_item_cont col-lg-4 col-md-6" data-lotto="South Africa Lotto 6/52">
-<div class="lotteries_item">						
+<div class="lotteries_item">
 <div class="lott_flag"><img src="https://static.cdnland.com/new/images/svg/country/za.svg" alt="ZA"></div>
 <a href="#windowAlert" class="ratestars fancybox" onclick="yaGoals('CLEVER');" data-title="Today's Top-Rated Lotteries" data-text="<p>We analyze dozens of parameters daily: Jackpot amount and tax deductions, winning odds and the number of prize divisions, cost of a single line, and availability of such options as &quot;Multiplier,&quot; and much more to offer you the best possible lottery at the moment!</p><p>Choose a lottery with the highest score to win more and spend less!</p>" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Lottery rating from 1 to 10">
-    <span class="icon-rating"></span>
+    <span class="fa fa-star"></span>
     <span class="ratestars_val">7.5</span>
 </a>
 <div class="lotteries_item_img">
@@ -2132,21 +2132,21 @@
 </div>
 <div class="lotteries_item_fl">
     <div class="lotteries_item_val text-nowrap d-none d-sm-block">R 23 <span class="mln_icon_extra text-nowrap">Million </span></div>
-    <div class="lotteries_item_val text-nowrap d-sm-none">R 23 <span class="mln_icon_extra text-nowrap">MM </span></div>			
+    <div class="lotteries_item_val text-nowrap d-sm-none">R 23 <span class="mln_icon_extra text-nowrap">MM </span></div>
     <div class="lotteries_item_label"><span class=""></span></div>
     <div class="lotteries_item_label " style="margin-top:3px;">
         <span class="bg-info">Rollover&nbsp;x7</span>
     </div>
-</div>	
+</div>
 <div class="lotteries_item_bot">
     <div class="time ">
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="308122">3&nbsp;days</div>
     </div>
-    
-    
+
+
     <div class="lottery_sel">
-        
+
         <div class="event-easy-pick-cont">
             <select name="easy_pick" class="lottery_sel_select event-easy-pick-select">
                 <option></option>
@@ -2154,8 +2154,8 @@
                 <option value="/en/play-lottery/za-lotto-652/?from=play_table&amp;easy_pick=10&amp;extra_jackpot=" data-event-easy-pick="1">10 lines for $ 7.90</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
                 <option value="/en/play-lottery/za-lotto-652/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
-                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>				
-                                    
+                <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
+
                 <option class="opt-system" value="/en/play-lottery/za-lotto-652/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
             <a href="/en/play-lottery/za-lotto-652/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
@@ -2166,14 +2166,14 @@
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                 <p><a href="/en/play-lottery/za-lotto-652/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
-                <div class="or light_version_site_hide">–––––––––––––</div>					
-                                
-                
+                <div class="or light_version_site_hide">–––––––––––––</div>
+
+
                     <p style="margin-top: 5px;"><a href="/en/play-lottery/za-lotto-652/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
-                
+
             </div>
         </div>
-        
+
     </div>
 </div>
 </div>
@@ -2208,13 +2208,13 @@ setCookie('lotteries_view', inx);
 function search_lotto_by_name() {
 let word = $.trim($('#lotto_for_search').val().toLowerCase());
 if (word) {
-    $('.ad-block').addClass('d-none');	
+    $('.ad-block').addClass('d-none');
     $('.lotteries_item_cont').each(function(){
         let lotto = $(this).data('lotto').toLowerCase();
         if (lotto.indexOf(word) > -1) {
-            $(this).removeClass('d-none');	
+            $(this).removeClass('d-none');
         } else {
-            $(this).addClass('d-none');	
+            $(this).addClass('d-none');
         }
     });
 } else {
@@ -2237,14 +2237,14 @@ search_lotto_by_name();
 
 $('.js-lotnac_slider').owlCarousel({
     loop:false,
-    margin:0, 
+    margin:0,
     nav:false,
     dots:false,
-    autoWidth:true, 
+    autoWidth:true,
     items:2,
     touchDrag:true,
     mouseDrag:true,
-    responsive:{		 
+    responsive:{
         992:{
             autoWidth:false,
             touchDrag:false,
@@ -2271,7 +2271,7 @@ lotteries_view(getCookie('lotteries_view'));
                     <div class="why_item_txt">We have obtained the Curacao license, due to which we can offer you any games and the best lotteries in the world.</div>
                 </div>
                 <div class="why_item_img">
-                    <!--<iframe SRC="https://licensing.gaming-curacao.com/validator/?lh=f60484a6978a9b62040108ab46a2e518&template=tseal" WIDTH=150 HEIGHT=50 STYLE="border:none;"></iframe>--> 
+                    <!--<iframe SRC="https://licensing.gaming-curacao.com/validator/?lh=f60484a6978a9b62040108ab46a2e518&template=tseal" WIDTH=150 HEIGHT=50 STYLE="border:none;"></iframe>-->
                     <a class="licensing-gaming-curacao" style="cursor: pointer;">
                         <img src="https://static.cdnland.com/new/images/svg/license.svg" alt="">
                     </a>
