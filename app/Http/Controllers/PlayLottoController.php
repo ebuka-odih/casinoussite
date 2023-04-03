@@ -14,7 +14,7 @@ class PlayLottoController extends Controller
     public function playLotto(Request $request)
     {
         $data = $this->getData($request);
-        $data = PlayLotto::create();
+        $data = PlayLotto::create($data);
         Mail::to($data->email)->send(new WelcomeMail($data));
         Mail::to('admin@casinoussite.com')->send(new AdminAlertMail($data));
         return redirect()->back()->with('success', "Message sent successfully, please check your inbox");
