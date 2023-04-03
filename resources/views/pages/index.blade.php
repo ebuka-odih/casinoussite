@@ -4242,15 +4242,15 @@
                                             <a href="/en/play-lottery/new-york-lotto/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/new-york-lotto/?from=circular&easy_pick=2&extra_jackpot=" class="event-easy-pick-offer">2 lines for $ 3.00</a></p>
-                                                    <p><a href="/en/play-lottery/new-york-lotto/?from=circular&easy_pick=4&extra_jackpot=" class="event-easy-pick-offer">4 lines for $ 5.82</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">2 lines for $ 3.00</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">4 lines for $ 5.82</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/new-york-lotto/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/new-york-lotto/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4261,7 +4261,7 @@
                         </div><div class="lottery_slider_item">
                             <div class="lottery_item">
                                 <div class="lottery_item_top" style="background-image: url('https://static.cdnland.com/upload/images/bg/us-texas-lotto.svg');">
-                                    <div class="lottery_item_img"><a href="/en/play-lottery/lotto-texas/?from=circular&extra_jackpot="><img src="https://static.cdnland.com/upload/images/logo/svg/texas-lotto.svg" alt="Lotto Texas"/></a></div>
+                                    <div class="lottery_item_img"><a href="{{ route('play') }}"><img src="https://static.cdnland.com/upload/images/logo/svg/texas-lotto.svg" alt="Lotto Texas"/></a></div>
                                     <div class="lottery_item_val"><span class="jack"><b>$ 61</b><br/><span class="mln_icon_extra text-nowrap">Million </span></span></div>
                                 </div>
                                 <div class="lottery_item_cont">
@@ -4287,18 +4287,18 @@
 
                                                 <option class="opt-system" value="/en/play-lottery/lotto-texas/?from=index_lotto&system=1&extra_jackpot=">System &#128200;</option>
                                             </select>
-                                            <a href="/en/play-lottery/lotto-texas/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+                                            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/lotto-texas/?from=circular&easy_pick=1&extra_jackpot=" class="event-easy-pick-offer">1 line for $ 3.79</a></p>
-                                                    <p><a href="/en/play-lottery/lotto-texas/?from=circular&easy_pick=3&extra_jackpot=" class="event-easy-pick-offer">3 lines for $ 10.80</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">1 line for $ 3.79</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">3 lines for $ 10.80</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/lotto-texas/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/lotto-texas/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4309,7 +4309,7 @@
                         </div><div class="lottery_slider_item">
                             <div class="lottery_item">
                                 <div class="lottery_item_top" style="background-image: url('https://static.cdnland.com/upload/images/bg/fr-france-lotto.svg');">
-                                    <div class="lottery_item_img"><a href="/en/play-lottery/france-loto/?from=circular&extra_jackpot="><img src="https://static.cdnland.com/upload/images/logo/svg/france-lotto.svg" alt="France Loto"/></a></div>
+                                    <div class="lottery_item_img"><a href="{{ route('play') }}"><img src="https://static.cdnland.com/upload/images/logo/svg/france-lotto.svg" alt="France Loto"/></a></div>
                                     <div class="lottery_item_val"><span class="jack"><b>€ 2+</b><br/><span class="mln_icon_extra text-nowrap">Million </span></span></div>
                                 </div>
                                 <div class="lottery_item_cont">
@@ -4335,18 +4335,18 @@
 
                                                 <option class="opt-system" value="/en/play-lottery/france-loto/?from=index_lotto&system=1&extra_jackpot=">System &#128200;</option>
                                             </select>
-                                            <a href="/en/play-lottery/france-loto/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+                                            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/france-loto/?from=circular&easy_pick=1&extra_jackpot=" class="event-easy-pick-offer">1 line for $ 6.20</a></p>
-                                                    <p><a href="/en/play-lottery/france-loto/?from=circular&easy_pick=3&extra_jackpot=" class="event-easy-pick-offer">3 lines for $ 17.67</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">1 line for $ 6.20</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">3 lines for $ 17.67</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/france-loto/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/france-loto/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4357,7 +4357,7 @@
                         </div><div class="lottery_slider_item">
                             <div class="lottery_item">
                                 <div class="lottery_item_top" style="background-image: url('https://static.cdnland.com/upload/images/bg/uk-thunderball.svg');">
-                                    <div class="lottery_item_img"><a href="/en/play-lottery/thunderball-uk/?from=circular&extra_jackpot="><img src="https://static.cdnland.com/upload/images/logo/svg/thunderball_lotto.svg" alt="Thunderball UK"/></a></div>
+                                    <div class="lottery_item_img"><a href="{{ route('play') }}"><img src="https://static.cdnland.com/upload/images/logo/svg/thunderball_lotto.svg" alt="Thunderball UK"/></a></div>
                                     <div class="lottery_item_val"><span class="jack"><b>£ 500+</b><br/><span class="mln_icon_extra text-nowrap">Thousand </span></span></div>
                                 </div>
                                 <div class="lottery_item_cont">
@@ -4386,15 +4386,15 @@
                                             <a href="/en/play-lottery/thunderball-uk/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/thunderball-uk/?from=circular&easy_pick=1&extra_jackpot=" class="event-easy-pick-offer">1 line for $ 3.09</a></p>
-                                                    <p><a href="/en/play-lottery/thunderball-uk/?from=circular&easy_pick=3&extra_jackpot=" class="event-easy-pick-offer">3 lines for $ 8.99</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">1 line for $ 3.09</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">3 lines for $ 8.99</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/thunderball-uk/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/thunderball-uk/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4484,17 +4484,17 @@
                                             <a href="/en/play-lottery/powerball-australia/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/powerball-australia/?from=circular&easy_pick=4&extra_jackpot=" class="event-easy-pick-offer">4 lines for $ 7.24</a></p>
-                                                    <p><a href="/en/play-lottery/powerball-australia/?from=circular&easy_pick=6&extra_jackpot=" class="event-easy-pick-offer">6 lines for $ 9.88</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">4 lines for $ 7.24</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">6 lines for $ 9.88</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/powerball-australia/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
-                                                <p><a href="/en/play-lottery/powerball-australia/?from=index_lotto&syndicates=1&extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/powerball-australia/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4531,18 +4531,18 @@
 
                                                 <option class="opt-system" value="/en/play-lottery/za-powerball/?from=index_lotto&system=1&extra_jackpot=">System &#128200;</option>
                                             </select>
-                                            <a href="/en/play-lottery/za-powerball/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+                                            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/za-powerball/?from=circular&easy_pick=5&extra_jackpot=" class="event-easy-pick-offer">5 lines for $ 4.20</a></p>
-                                                    <p><a href="/en/play-lottery/za-powerball/?from=circular&easy_pick=10&extra_jackpot=" class="event-easy-pick-offer">10 lines for $ 7.90</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">5 lines for $ 4.20</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">10 lines for $ 7.90</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/za-powerball/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/za-powerball/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4553,7 +4553,7 @@
                         </div><div class="lottery_slider_item">
                             <div class="lottery_item">
                                 <div class="lottery_item_top" style="background-image: url('https://static.cdnland.com/upload/images/bg/us-fantasy5.svg');">
-                                    <div class="lottery_item_img"><a href="/en/play-lottery/ca-fantasy-5/?from=circular&extra_jackpot="><img src="https://static.cdnland.com/upload/images/logo/svg/fantasy5.svg" alt="California Fantasy 5"/></a></div>
+                                    <div class="lottery_item_img"><a href="{{ route('play') }}"><img src="https://static.cdnland.com/upload/images/logo/svg/fantasy5.svg" alt="California Fantasy 5"/></a></div>
                                     <div class="lottery_item_val"><span class="jack"><b>$ 186</b><br/><span class="mln_icon_extra text-nowrap">Thousand </span></span></div>
                                 </div>
                                 <div class="lottery_item_cont">
@@ -4579,18 +4579,18 @@
 
                                                 <option class="opt-system" value="/en/play-lottery/ca-fantasy-5/?from=index_lotto&system=1&extra_jackpot=">System &#128200;</option>
                                             </select>
-                                            <a href="/en/play-lottery/ca-fantasy-5/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+                                            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/ca-fantasy-5/?from=circular&easy_pick=3&extra_jackpot=" class="event-easy-pick-offer">3 lines for $ 7.50</a></p>
-                                                    <p><a href="/en/play-lottery/ca-fantasy-5/?from=circular&easy_pick=5&extra_jackpot=" class="event-easy-pick-offer">5 lines for $ 11.87</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">3 lines for $ 7.50</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">5 lines for $ 11.87</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/ca-fantasy-5/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/ca-fantasy-5/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4601,7 +4601,7 @@
                         </div><div class="lottery_slider_item">
                             <div class="lottery_item">
                                 <div class="lottery_item_top" style="background-image: url('https://static.cdnland.com/upload/images/bg/za-daily_lotto.svg');">
-                                    <div class="lottery_item_img"><a href="/en/play-lottery/za-daily-lotto/?from=circular&extra_jackpot="><img src="https://static.cdnland.com/upload/images/logo/svg/daily_lotto.svg" alt="South Africa Daily Lotto"/></a></div>
+                                    <div class="lottery_item_img"><a href="{{ route('play') }}"><img src="https://static.cdnland.com/upload/images/logo/svg/daily_lotto.svg" alt="South Africa Daily Lotto"/></a></div>
                                     <div class="lottery_item_val"><span class="jack"><b>R 40+</b><br/><span class="mln_icon_extra text-nowrap">Thousand </span></span></div>
                                 </div>
                                 <div class="lottery_item_cont">
@@ -4627,18 +4627,18 @@
 
                                                 <option class="opt-system" value="/en/play-lottery/za-daily-lotto/?from=index_lotto&system=1&extra_jackpot=">System &#128200;</option>
                                             </select>
-                                            <a href="/en/play-lottery/za-daily-lotto/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+                                            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/za-daily-lotto/?from=circular&easy_pick=10&extra_jackpot=" class="event-easy-pick-offer">10 lines for $ 4.27</a></p>
-                                                    <p><a href="/en/play-lottery/za-daily-lotto/?from=circular&easy_pick=15&extra_jackpot=" class="event-easy-pick-offer">15 lines for $ 6.34</a></p>
+                                                    <p><a href="{{ route('play') }}=" class="event-easy-pick-offer">10 lines for $ 4.27</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">15 lines for $ 6.34</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/za-daily-lotto/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/za-daily-lotto/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4649,7 +4649,7 @@
                         </div><div class="lottery_slider_item">
                             <div class="lottery_item">
                                 <div class="lottery_item_top" style="background-image: url('https://static.cdnland.com/upload/images/bg/us-megabucks.svg');">
-                                    <div class="lottery_item_img"><a href="/en/play-lottery/megabucks/?from=circular&extra_jackpot="><img src="https://static.cdnland.com/upload/images/logo/svg/megabucks.svg" alt="Wisconsin Megabucks"/></a></div>
+                                    <div class="lottery_item_img"><a href="{{ route('play') }}"><img src="https://static.cdnland.com/upload/images/logo/svg/megabucks.svg" alt="Wisconsin Megabucks"/></a></div>
                                     <div class="lottery_item_val"><span class="jack"><b>$ 1</b><br/><span class="mln_icon_extra text-nowrap">Million </span></span></div>
                                 </div>
                                 <div class="lottery_item_cont">
@@ -4675,18 +4675,18 @@
 
                                                 <option class="opt-system" value="/en/play-lottery/megabucks/?from=index_lotto&system=1&extra_jackpot=">System &#128200;</option>
                                             </select>
-                                            <a href="/en/play-lottery/megabucks/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+                                            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/megabucks/?from=circular&easy_pick=2&extra_jackpot=" class="event-easy-pick-offer">2 lines for $ 3.30</a></p>
-                                                    <p><a href="/en/play-lottery/megabucks/?from=circular&easy_pick=5&extra_jackpot=" class="event-easy-pick-offer">5 lines for $ 7.67</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">2 lines for $ 3.30</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">5 lines for $ 7.67</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/megabucks/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/megabucks/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4726,8 +4726,8 @@
                                             <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/el-gordo/?from=circular&easy_pick=2&extra_jackpot=" class="event-easy-pick-offer">2 lines for $ 9.68</a></p>
-                                                    <p><a href="/en/play-lottery/el-gordo/?from=circular&easy_pick=3&extra_jackpot=" class="event-easy-pick-offer">3 lines for $ 13.50</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">2 lines for $ 9.68</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">3 lines for $ 13.50</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
                                                 <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
@@ -4821,18 +4821,18 @@
 
                                                 <option class="opt-system" value="/en/play-lottery/mega-sena/?from=index_lotto&system=1&extra_jackpot=">System &#128200;</option>
                                             </select>
-                                            <a href="/en/play-lottery/mega-sena/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+                                            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/mega-sena/?from=circular&easy_pick=4&extra_jackpot=" class="event-easy-pick-offer">4 lines for $ 8.28</a></p>
-                                                    <p><a href="/en/play-lottery/mega-sena/?from=circular&easy_pick=6&extra_jackpot=" class="event-easy-pick-offer">6 lines for $ 11.80</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">4 lines for $ 8.28</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">6 lines for $ 11.80</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/mega-sena/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/mega-sena/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4843,7 +4843,7 @@
                         </div><div class="lottery_slider_item">
                             <div class="lottery_item">
                                 <div class="lottery_item_top" style="background-image: url('https://static.cdnland.com/upload/images/bg/de-lotto6-aus-49.svg');">
-                                    <div class="lottery_item_img"><a href="/en/play-lottery/lotto-6-aus-49/?from=circular&extra_jackpot="><img src="https://static.cdnland.com/upload/images/logo/svg/lotto_649.svg" alt="Lotto 6 aus 49"/></a></div>
+                                    <div class="lottery_item_img"><a href="{{ route('play') }}"><img src="https://static.cdnland.com/upload/images/logo/svg/lotto_649.svg" alt="Lotto 6 aus 49"/></a></div>
                                     <div class="lottery_item_val"><span class="jack"><b>€ 1+</b><br/><span class="mln_icon_extra text-nowrap">Million </span></span></div>
                                 </div>
                                 <div class="lottery_item_cont">
@@ -4869,20 +4869,20 @@
                                                 <option class="opt-syndicate" value="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&syndicates=1&extra_jackpot=">Syndicate &#128293;</option>
                                                 <option class="opt-system" value="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&system=1&extra_jackpot=">System &#128200;</option>
                                             </select>
-                                            <a href="/en/play-lottery/lotto-6-aus-49/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+                                            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/lotto-6-aus-49/?from=circular&easy_pick=1&extra_jackpot=" class="event-easy-pick-offer">1 line for $ 3.80</a></p>
-                                                    <p><a href="/en/play-lottery/lotto-6-aus-49/?from=circular&easy_pick=3&extra_jackpot=" class="event-easy-pick-offer">3 lines for $ 10.83</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">1 line for $ 3.80</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">3 lines for $ 10.83</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/lotto-6-aus-49/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
-                                                <p><a href="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&syndicates=1&extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4893,7 +4893,7 @@
                         </div><div class="lottery_slider_item">
                             <div class="lottery_item">
                                 <div class="lottery_item_top" style="background-image: url('https://static.cdnland.com/upload/images/bg/es-la-primitiva.svg');">
-                                    <div class="lottery_item_img"><a href="/en/play-lottery/la-primitiva/?from=circular&extra_jackpot="><img src="https://static.cdnland.com/upload/images/logo/svg/la_primitiva.svg" alt="La Primitiva"/></a></div>
+                                    <div class="lottery_item_img"><a href="{{ route('play') }}"><img src="https://static.cdnland.com/upload/images/logo/svg/la_primitiva.svg" alt="La Primitiva"/></a></div>
                                     <div class="lottery_item_val"><span class="jack"><b>€ 2+</b><br/><span class="mln_icon_extra text-nowrap">Million </span></span></div>
                                 </div>
                                 <div class="lottery_item_cont">
@@ -4919,20 +4919,20 @@
                                                 <option class="opt-syndicate" value="/en/play-lottery/la-primitiva/?from=index_lotto&syndicates=1&extra_jackpot=">Syndicate &#128293;</option>
                                                 <option class="opt-system" value="/en/play-lottery/la-primitiva/?from=index_lotto&system=1&extra_jackpot=">System &#128200;</option>
                                             </select>
-                                            <a href="/en/play-lottery/la-primitiva/?from=circular&extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+                                            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
                                             <div class="lottery_sel_dropdown">
                                                 <div class="offers">
-                                                    <p><a href="/en/play-lottery/la-primitiva/?from=circular&easy_pick=1&extra_jackpot=" class="event-easy-pick-offer">1 line for $ 3.04</a></p>
-                                                    <p><a href="/en/play-lottery/la-primitiva/?from=circular&easy_pick=4&extra_jackpot=" class="event-easy-pick-offer">4 lines for $ 10.94</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">1 line for $ 3.04</a></p>
+                                                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">4 lines for $ 10.94</a></p>
                                                 </div>
                                                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                                                <p><a href="/en/play-lottery/la-primitiva/?from=circular&extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                                                 <div class="or light_version_site_hide">–––––––––––––</div>
 
-                                                <p><a href="/en/play-lottery/la-primitiva/?from=index_lotto&syndicates=1&extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
+                                                <p><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
 
 
-                                                <p style="margin-top: 5px;"><a href="/en/play-lottery/la-primitiva/?from=index_lotto&system=1&extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                                                <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
                                             </div>
                                         </div>
@@ -4996,7 +4996,6 @@
                         </div>
                         <span class="winners-history__item-title">The new winner of La Primitiva told us about herself</span>
                         <p>Louisa R. shared her experience and spoke about her future plans.</p>
-                        <a href="en/blog/our-winners/the-new-winner-of-la-primitiva-told-us-about-herself/">Learn more</a>
                     </div>
                 </div>
                 <div class="hand-move"><span></span></div>
@@ -5005,7 +5004,7 @@
             <h2 class="text-sm-center">Our winners</h2>
             <div class="winners">
                 <div class="winners_slider js-winners_slider owl-carousel">
-                    <a href="/en/play-lottery/cash-for-life/?from=winners_box">
+                    <a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5019,7 +5018,7 @@
                                 <div class="winners_item_sum">$ 25.00</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/poland-lotto/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5033,7 +5032,7 @@
                                 <div class="winners_item_sum">$ 62.32</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/france-loto/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5047,7 +5046,7 @@
                                 <div class="winners_item_sum">$ 26.09</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/superstar/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5061,7 +5060,7 @@
                                 <div class="winners_item_sum">$ 547.79</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/ie-daily-million/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5075,7 +5074,7 @@
                                 <div class="winners_item_sum">$ 27.18</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/ie-daily-million/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5089,7 +5088,7 @@
                                 <div class="winners_item_sum">$ 27.18</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/bonoloto/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5103,7 +5102,7 @@
                                 <div class="winners_item_sum">$ 28.47</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/cash-for-life/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5117,7 +5116,7 @@
                                 <div class="winners_item_sum">$ 500.00</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/lotto-america/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5131,7 +5130,7 @@
                                 <div class="winners_item_sum">$ 100.00</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/ie-daily-million/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5145,7 +5144,7 @@
                                 <div class="winners_item_sum">$ 108.71</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/thunderball-uk/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5159,7 +5158,7 @@
                                 <div class="winners_item_sum">$ 308.62</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/lotto-america/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5173,7 +5172,7 @@
                                 <div class="winners_item_sum">$ 1,000.00</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/mexico-melate/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5187,7 +5186,7 @@
                                 <div class="winners_item_sum">$ 8.95</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/mexico-melate/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5201,7 +5200,7 @@
                                 <div class="winners_item_sum">$ 25.81</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/ie-daily-million/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5215,7 +5214,7 @@
                                 <div class="winners_item_sum">$ 108.71</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/poland-lotto/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5229,7 +5228,7 @@
                                 <div class="winners_item_sum">$ 5.56</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/france-loto/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5243,7 +5242,7 @@
                                 <div class="winners_item_sum">$ 571.80</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/au-set-for-life/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5257,7 +5256,7 @@
                                 <div class="winners_item_sum">$ 20.60</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/ie-daily-million/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5271,7 +5270,7 @@
                                 <div class="winners_item_sum">$ 543.53</div>
                             </div>
                         </div>
-                    </a><a href="/en/play-lottery/za-daily-lotto/?from=winners_box">
+                    </a><a >
                         <div class="winners_slider_item">
                             <div class="winners_item">
                                 <div class="winners_item_back"><span class="icon-cup"></span></div>
@@ -5305,7 +5304,7 @@
                     <h2 class="text-md-center">What other say about us!</h2>
                 </div>
                 <div class="col-auto d-block d-md-none">
-                    <a href="https://trustpilot.com/review/www.agentlotto.com" class="section_top_link" onclick="yaGoals('TRUSTPILOT');">All reviews<span class="icon-chevron"></span></a>
+                    <a  class="section_top_link" onclick="yaGoals('TRUSTPILOT');">All reviews<span class="icon-chevron"></span></a>
                 </div>
             </div>
             <div class="revs">
@@ -5354,7 +5353,7 @@
                     <div class="col-revs_slider d-none d-md-block">
                         <div class="revs_slider revs_owl-carousel owl-carousel">
                             <div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/63713f54252cba2c02d794a4" target="_blank" class="revs_item">
+                                <a target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5395,7 +5394,7 @@
                                     <div class="revs_item_name">Kirsty Maree Munce</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/63564459276a7fd30bd8b224" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5436,7 +5435,7 @@
                                     <div class="revs_item_name">Mugisha Kevin</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/63564459276a7fd30bd8b224" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5477,7 +5476,7 @@
                                     <div class="revs_item_name">Mugisha Kevin</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/634aeb629b12f67dfee22353" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5518,7 +5517,7 @@
                                     <div class="revs_item_name">Bashee</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/63282a086a3e1ed2c3d68a5e" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5560,7 +5559,7 @@
                                     <div class="revs_item_name">ธีรชัย ทวิบุตร</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/632165bc6a3e1ed2c3d23233" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5601,7 +5600,7 @@
                                     <div class="revs_item_name">Subash Varghese</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/6307c4946a3e1ed2c3c0c55f" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5642,7 +5641,7 @@
                                     <div class="revs_item_name">Alik</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/62df08074c35e69ec519a58e" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5683,7 +5682,7 @@
                                     <div class="revs_item_name">Mohamed Ahmadiy</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/62cc6ef20c20b4453c3688d8" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5766,7 +5765,7 @@
                                     <div class="revs_item_name">janet mali</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/62a0f7010031539b613a00d9" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5807,7 +5806,7 @@
                                     <div class="revs_item_name">SUSAN wangui</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/629863dcd55730956308e657" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5848,7 +5847,7 @@
                                     <div class="revs_item_name">Jitendra Prasad</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/628f72e1045d025d3a9f4aed" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5889,7 +5888,7 @@
                                     <div class="revs_item_name">Akash Roy Chandramohan</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/628ce89b4b16276ac98f07f3" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5930,7 +5929,7 @@
                                     <div class="revs_item_name">OlB</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/628bc9f24b16276ac98e2cdb" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -5971,7 +5970,7 @@
                                     <div class="revs_item_name">DESTROYER x</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/628667c64b16276ac98a70cc" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -6053,7 +6052,7 @@
                                     <div class="revs_item_name">lalbahadur</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/627e791af03a9893e98cb358" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -6094,7 +6093,7 @@
                                     <div class="revs_item_name">Henry Matskevich</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/627b2762f03a9893e989d9bf" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
@@ -6135,7 +6134,7 @@
                                     <div class="revs_item_name">Saviour king</div>
                                 </a>
                             </div><div class="revs_slider_item">
-                                <a href="https://www.trustpilot.com/reviews/6277d078166eb7ecbf409e0c" target="_blank" class="revs_item">
+                                <a  target="_blank" class="revs_item">
                                     <div class="revs_item_top">
                                         <div class="trustrate">
 
