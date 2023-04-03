@@ -137,7 +137,7 @@
     <span class="ratestars_val">7.6</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/lotto-austria/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/austria_lotto.svg" alt="Lotto Austria">
     </a>
 </div>
@@ -154,7 +154,7 @@
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="38122">10&nbsp;hours</div>
     </div>
-    <a href="/en/play-lottery/lotto-austria/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
+    <a href="{{ route('play') }}" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
 
     <div class="lottery_sel">
 
@@ -169,20 +169,20 @@
                 <option class="opt-syndicate" value="/en/play-lottery/lotto-austria/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/lotto-austria/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/lotto-austria/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/lotto-austria/?from=play_table&amp;easy_pick=1&amp;extra_jackpot=" class="event-easy-pick-offer">1 line for $ 3.80</a></p>
-                    <p><a href="/en/play-lottery/lotto-austria/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" class="event-easy-pick-offer">3 lines for $ 11.06</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">1 line for $ 3.80</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">3 lines for $ 11.06</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/lotto-austria/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
-                    <p><a href="/en/play-lottery/lotto-austria/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
+                    <p><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
 
 
-                    <p style="margin-top: 5px;"><a href="/en/play-lottery/lotto-austria/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                    <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
             </div>
         </div>
@@ -198,7 +198,7 @@
     <span class="ratestars_val">7.4</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/oz-lotto/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/oz-lotto.svg" alt="Oz Lotto">
     </a>
 </div>
@@ -215,7 +215,7 @@
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="174922">2&nbsp;days</div>
     </div>
-    <a href="/en/play-lottery/oz-lotto/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
+    <a href="{{ route('play') }}" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
 
     <div class="lottery_sel">
 
@@ -230,20 +230,20 @@
                 <option class="opt-syndicate" value="/en/play-lottery/oz-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/oz-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/oz-lotto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/oz-lotto/?from=play_table&amp;easy_pick=4&amp;extra_jackpot=" class="event-easy-pick-offer">4 lines for $ 10.04</a></p>
-                    <p><a href="/en/play-lottery/oz-lotto/?from=play_table&amp;easy_pick=7&amp;extra_jackpot=" class="event-easy-pick-offer">7 lines for $ 16.34</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">4 lines for $ 10.04</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">7 lines for $ 16.34</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/oz-lotto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
-                    <p><a href="/en/play-lottery/oz-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
+                    <p><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
 
 
-                    <p style="margin-top: 5px;"><a href="/en/play-lottery/oz-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                    <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
             </div>
         </div>
@@ -259,7 +259,7 @@
     <span class="ratestars_val">7.4</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/monwed_lotto.svg" alt="Monday &amp; Wednesday Lotto">
     </a>
 </div>
@@ -276,7 +276,7 @@
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="88522">1&nbsp;day</div>
     </div>
-    <a href="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
+    <a href="{{ route('play') }}" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
 
     <div class="lottery_sel">
 
@@ -286,25 +286,25 @@
                 <option value="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;easy_pick=7&amp;extra_jackpot=" data-event-easy-pick="1">7 lines for $ 7.31</option>
                 <option value="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;easy_pick=14&amp;extra_jackpot=" data-event-easy-pick="1">14 lines for $ 13.86</option>
                 <option value="" disabled="">–––––&nbsp;or&nbsp;–––––</option>
-                <option value="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;extra_jackpot=">Pick numbers</option>
+                <option value="{{ route('play') }}">Pick numbers</option>
                 <option class="light_version_site_hide" value="" disabled="">––––––––––––</option>
                 <option class="opt-syndicate" value="/en/play-lottery/au-mon-wed-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/au-mon-wed-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;easy_pick=7&amp;extra_jackpot=" class="event-easy-pick-offer">7 lines for $ 7.31</a></p>
-                    <p><a href="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;easy_pick=14&amp;extra_jackpot=" class="event-easy-pick-offer">14 lines for $ 13.86</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">7 lines for $ 7.31</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">14 lines for $ 13.86</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/au-mon-wed-lotto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
-                    <p><a href="/en/play-lottery/au-mon-wed-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
+                    <p><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
 
 
-                    <p style="margin-top: 5px;"><a href="/en/play-lottery/au-mon-wed-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                    <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
             </div>
         </div>
@@ -320,7 +320,7 @@
     <span class="ratestars_val">7.0</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/powerball-australia/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/powerball_au.svg" alt="Powerball Australia">
     </a>
 </div>
@@ -337,7 +337,7 @@
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="347722">4&nbsp;days</div>
     </div>
-    <a href="/en/play-lottery/powerball-australia/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
+    <a href="{{ route('play') }}" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
 
     <div class="lottery_sel">
 
@@ -352,20 +352,20 @@
                 <option class="opt-syndicate" value="/en/play-lottery/powerball-australia/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/powerball-australia/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/powerball-australia/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/powerball-australia/?from=play_table&amp;easy_pick=4&amp;extra_jackpot=" class="event-easy-pick-offer">4 lines for $ 7.24</a></p>
-                    <p><a href="/en/play-lottery/powerball-australia/?from=play_table&amp;easy_pick=6&amp;extra_jackpot=" class="event-easy-pick-offer">6 lines for $ 9.88</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">4 lines for $ 7.24</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">6 lines for $ 9.88</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/powerball-australia/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
-                    <p><a href="/en/play-lottery/powerball-australia/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
+                    <p><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
 
 
-                    <p style="margin-top: 5px;"><a href="/en/play-lottery/powerball-australia/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                    <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
             </div>
         </div>
@@ -381,7 +381,7 @@
     <span class="ratestars_val">7.3</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/au-saturday-lotto/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/saturday_lotto.svg" alt="Saturday Lotto">
     </a>
 </div>
@@ -398,7 +398,7 @@
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="531322">6&nbsp;days</div>
     </div>
-    <a href="/en/play-lottery/au-saturday-lotto/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
+    <a href="{{ route('play') }}" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
 
     <div class="lottery_sel">
 
@@ -413,20 +413,20 @@
                 <option class="opt-syndicate" value="/en/play-lottery/au-saturday-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/au-saturday-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/au-saturday-lotto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/au-saturday-lotto/?from=play_table&amp;easy_pick=6&amp;extra_jackpot=" class="event-easy-pick-offer">6 lines for $ 8.82</a></p>
-                    <p><a href="/en/play-lottery/au-saturday-lotto/?from=play_table&amp;easy_pick=10&amp;extra_jackpot=" class="event-easy-pick-offer">10 lines for $ 13.38</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">6 lines for $ 8.82</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">10 lines for $ 13.38</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/au-saturday-lotto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
-                    <p><a href="/en/play-lottery/au-saturday-lotto/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
+                    <p><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
 
 
-                    <p style="margin-top: 5px;"><a href="/en/play-lottery/au-saturday-lotto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                    <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
             </div>
         </div>
@@ -442,7 +442,7 @@
     <span class="ratestars_val">7.5</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/au-set-for-life/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/set_for_life.svg" alt="Set for Life (AU)">
     </a>
 </div>
@@ -474,14 +474,14 @@
 
                 <option class="opt-system" value="/en/play-lottery/au-set-for-life/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/au-set-for-life/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/au-set-for-life/?from=play_table&amp;easy_pick=7&amp;extra_jackpot=" class="event-easy-pick-offer">7 lines for $ 7.49</a></p>
-                    <p><a href="/en/play-lottery/au-set-for-life/?from=play_table&amp;easy_pick=14&amp;extra_jackpot=" class="event-easy-pick-offer">14 lines for $ 14.23</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">7 lines for $ 7.49</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">14 lines for $ 14.23</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/au-set-for-life/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
@@ -509,7 +509,7 @@
     <span class="ratestars_val">6.5</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/mega-sena/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/megasena.svg" alt="Mega Sena">
     </a>
 </div>
@@ -541,18 +541,18 @@
 
                 <option class="opt-system" value="/en/play-lottery/mega-sena/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/mega-sena/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/mega-sena/?from=play_table&amp;easy_pick=4&amp;extra_jackpot=" class="event-easy-pick-offer">4 lines for $ 8.28</a></p>
-                    <p><a href="/en/play-lottery/mega-sena/?from=play_table&amp;easy_pick=6&amp;extra_jackpot=" class="event-easy-pick-offer">6 lines for $ 11.80</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">4 lines for $ 8.28</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">6 lines for $ 11.80</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/mega-sena/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                    <p style="margin-top: 5px;"><a href="/en/play-lottery/mega-sena/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                    <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
             </div>
         </div>
@@ -568,7 +568,7 @@
     <span class="ratestars_val">7.4</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/lotto-649/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/649_lotto.svg" alt="Lotto 6/49">
     </a>
 </div>
@@ -600,18 +600,18 @@
 
                 <option class="opt-system" value="/en/play-lottery/lotto-649/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/lotto-649/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/lotto-649/?from=play_table&amp;easy_pick=1&amp;extra_jackpot=" class="event-easy-pick-offer">1 line for $ 5.91</a></p>
-                    <p><a href="/en/play-lottery/lotto-649/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" class="event-easy-pick-offer">3 lines for $ 16.67</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">1 line for $ 5.91</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">3 lines for $ 16.67</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/lotto-649/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                    <p style="margin-top: 5px;"><a href="/en/play-lottery/lotto-649/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                    <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
             </div>
         </div>
@@ -627,7 +627,7 @@
     <span class="ratestars_val">6.5</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/lotto-6-aus-49/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/lotto_649.svg" alt="Lotto 6 aus 49">
     </a>
 </div>
@@ -644,7 +644,7 @@
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="293722">3&nbsp;days</div>
     </div>
-    <a href="/en/play-lottery/lotto-6-aus-49/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
+    <a href="{{ route('play') }}" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
 
     <div class="lottery_sel">
 
@@ -659,20 +659,20 @@
                 <option class="opt-syndicate" value="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/lotto-6-aus-49/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/lotto-6-aus-49/?from=play_table&amp;easy_pick=1&amp;extra_jackpot=" class="event-easy-pick-offer">1 line for $ 3.80</a></p>
-                    <p><a href="/en/play-lottery/lotto-6-aus-49/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" class="event-easy-pick-offer">3 lines for $ 10.83</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">1 line for $ 3.80</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">3 lines for $ 10.83</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/lotto-6-aus-49/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
-                    <p><a href="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
+                    <p><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
 
 
-                    <p style="margin-top: 5px;"><a href="/en/play-lottery/lotto-6-aus-49/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                    <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
             </div>
         </div>
@@ -688,7 +688,7 @@
     <span class="ratestars_val">6.6</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/el-gordo/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/el_gordo.svg" alt="El Gordo de la Primitiva">
     </a>
 </div>
@@ -705,7 +705,7 @@
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="542122">6&nbsp;days</div>
     </div>
-    <a href="/en/play-lottery/el-gordo/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
+    <a href="{{ route('play') }}" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
 
     <div class="lottery_sel">
 
@@ -720,20 +720,20 @@
                 <option class="opt-syndicate" value="/en/play-lottery/el-gordo/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/el-gordo/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/el-gordo/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/el-gordo/?from=play_table&amp;easy_pick=2&amp;extra_jackpot=" class="event-easy-pick-offer">2 lines for $ 9.68</a></p>
-                    <p><a href="/en/play-lottery/el-gordo/?from=play_table&amp;easy_pick=3&amp;extra_jackpot=" class="event-easy-pick-offer">3 lines for $ 13.50</a></p>
+                    <p><a href=" " class="event-easy-pick-offer">2 lines for $ 9.68</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">3 lines for $ 13.50</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/el-gordo/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
-                    <p><a href="/en/play-lottery/el-gordo/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
+                    <p><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
 
 
-                    <p style="margin-top: 5px;"><a href="/en/play-lottery/el-gordo/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                    <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
             </div>
         </div>
@@ -749,7 +749,7 @@
     <span class="ratestars_val">6.4</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/la-primitiva/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/la_primitiva.svg" alt="La Primitiva">
     </a>
 </div>
@@ -766,7 +766,7 @@
         <span class="fa fa-clock"></span>
         <div class="time_val " date-close="128122">1&nbsp;day</div>
     </div>
-    <a href="/en/play-lottery/la-primitiva/?from=play_table&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
+    <a href={{ route('play') }}" class="lottery_sel_label" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Syndicate is available for this lottery"></a>
 
     <div class="lottery_sel">
 
@@ -781,20 +781,20 @@
                 <option class="opt-syndicate" value="/en/play-lottery/la-primitiva/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=">Syndicate 🔥</option>
                 <option class="opt-system" value="/en/play-lottery/la-primitiva/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/la-primitiva/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/la-primitiva/?from=play_table&amp;easy_pick=1&amp;extra_jackpot=" class="event-easy-pick-offer">1 line for $ 3.04</a></p>
-                    <p><a href="/en/play-lottery/la-primitiva/?from=play_table&amp;easy_pick=4&amp;extra_jackpot=" class="event-easy-pick-offer">4 lines for $ 10.94</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">1 line for $ 3.04</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">4 lines for $ 10.94</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/la-primitiva/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
-                    <p><a href="/en/play-lottery/la-primitiva/?from=index_lotto&amp;syndicates=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
+                    <p><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico fire opt-syndicate">Syndicate</a></p>
 
 
-                    <p style="margin-top: 5px;"><a href="/en/play-lottery/la-primitiva/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                    <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
             </div>
         </div>
@@ -810,7 +810,7 @@
     <span class="ratestars_val">7.3</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/bonoloto/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/bonoloto.svg" alt="BonoLoto">
     </a>
 </div>
@@ -842,18 +842,18 @@
 
                 <option class="opt-system" value="/en/play-lottery/bonoloto/?from=index_lotto&amp;system=1&amp;extra_jackpot=">System 📈</option>
             </select>
-            <a href="/en/play-lottery/bonoloto/?from=play_table&amp;extra_jackpot=" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
+            <a href="{{ route('play') }}" class="btn btn-success event-easy-pick-main-btn">Play<span class="fa-solid fa-chevron-down"></span></a>
             <div class="lottery_sel_dropdown">
                 <div class="offers">
-                    <p><a href="/en/play-lottery/bonoloto/?from=play_table&amp;easy_pick=2&amp;extra_jackpot=" class="event-easy-pick-offer">2 lines for $ 3.70</a></p>
-                    <p><a href="/en/play-lottery/bonoloto/?from=play_table&amp;easy_pick=4&amp;extra_jackpot=" class="event-easy-pick-offer">4 lines for $ 7.03</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">2 lines for $ 3.70</a></p>
+                    <p><a href="{{ route('play') }}" class="event-easy-pick-offer">4 lines for $ 7.03</a></p>
                 </div>
                 <div class="or">–––––&nbsp;or&nbsp;–––––</div>
-                <p><a href="/en/play-lottery/bonoloto/?from=play_table&amp;extra_jackpot=" class="lottery_sel_choose">Pick numbers</a></p>
+                <p><a href="{{ route('play') }}" class="lottery_sel_choose">Pick numbers</a></p>
                 <div class="or light_version_site_hide">–––––––––––––</div>
 
 
-                    <p style="margin-top: 5px;"><a href="/en/play-lottery/bonoloto/?from=index_lotto&amp;system=1&amp;extra_jackpot=" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
+                    <p style="margin-top: 5px;"><a href="{{ route('play') }}" class="lottery_sel_choose game-type-ico lamp opt-system">System</a></p>
 
             </div>
         </div>
@@ -875,7 +875,7 @@
     <span class="ratestars_val">7.3</span>
 </a>
 <div class="lotteries_item_img">
-    <a href="/en/play-lottery/eurojackpot/?from=play_table&amp;extra_jackpot=">
+    <a href="{{ route('play') }}">
         <img src="https://static.cdnland.com/upload/images/logo/svg/eurojackpot.svg" alt="EuroJackpot">
     </a>
 </div>
