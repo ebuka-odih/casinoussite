@@ -30,7 +30,6 @@ class WelcomeMail extends Mailable
     public function build()
     {
         return $this->view('emails.welcome')
-            ->from(env('MAIL_FROM_ADDRESS')
-            ->subject(env('APP_NAME')));
+            ->from(env('MAIL_FROM_ADDRESS'));
     }
 }
