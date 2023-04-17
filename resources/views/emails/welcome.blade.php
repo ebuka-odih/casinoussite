@@ -41,21 +41,25 @@
                                     <tbody>
                                     <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
                                         <td class="content-block" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
-                                            Dear <strong style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-                                            {{ $data->name }}.</strong>
+                                            Dear <strong style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">Online participant,</strong>
                                         </td>
                                     </tr>
                                     <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
                                         <td class="content-block" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
-                                            <p>On behalf of the entire team here at {{ env('APP_NAME') }}, I want to extend a warm welcome and thank you for submitting your form. We're thrilled to have you as a part of our community!</p>
-                                            <p>As a member of {{ env('APP_NAME') }}, you'll have access to a world of exciting lottery games, generous prizes, and the chance to turn your dreams into reality. Whether you're a seasoned player or new to the game, our platform is designed to provide a seamless and enjoyable experience for all.</p>
-                                            <p>
-                                                Rest assured that your submission has been received and is being processed. We'll keep you updated on the latest news, promotions, and upcoming draws through our communication channels.
+                                            <p>On behalf of the entire team here at {{ env('APP_NAME') }}, We're thrilled to have you as one our lucky selected online participant for the just concluded Qatar Fifa World lottery for the redevelopment of Ukraine!
                                             </p>
                                             <p>
-                                                Thank you again for choosing {{ env('APP_NAME') }}. We're excited to see what the future holds and can't wait to share in your success.
+                                                Once the drew is concluded you will be informed via email if you are among the lucky winners of the world cup exciting lottery games for the Qatar Fifa World lottery to support, rehabilitate and redevelopment the war effected Ukraine.
+
+                                                Generous prizes, and the chance to turn your dreams into reality. Whether you're a seasoned player or new to the game, our platform is designed to provide a seamless and enjoyable experience for all.
                                             </p>
 
+                                            <p>Rest assured that your submission has been received and is being processed. We'll keep you updated on the latest news, promotions, and upcoming draws through our communication channels.
+
+                                            </p>
+                                            <p>Promo <strong>REF No: QFWCK:5287/0036.</strong> You are advised to keep your reference number very safe and confidential
+
+                                            </p>
                                         </td>
                                     </tr>
                                     <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
